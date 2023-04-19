@@ -38,7 +38,7 @@ A Página de Links é um projeto simples em que contém links que redirecionam p
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](<https://barralukas.github.io/linkPage/>)
+Você pode visualizar o projeto através [DESSE LINK](<https://barralukas.github.io/linkpage/>)
 
 ## :memo: Licença
 
